@@ -1,5 +1,12 @@
 # World-Development-Indicators
 
-Exploratory analysis project to investigate the completeness of the world development indictors over time
+Notebook to analyse the completeness of the World Development Indictors measurements over time
 
-All key findings presented in the exploratory_analysis.ipynb file
+The Jupyter notebook exploratory_analysis.ipynb covers:
+- Reading in data from a PostgresSQL server
+- Descriptive statistics of the dataset
+- Data cleaning to remove empty columns
+- Webscraping to find ISO country codes
+- Reshaping datasets with Pandas
+- Plotting visualisations with Seaborn
+- Summary of key insights
