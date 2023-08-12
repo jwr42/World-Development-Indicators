@@ -1,6 +1,6 @@
 # World-Development-Indicators
 
-Notebook to analyse the completeness of the World Development Indictors measurements over time
+Notebook to analyse the completeness of the World Development Indictors measurements from 1960 onwards.
 
 The Jupyter notebook exploratory_analysis.ipynb covers:
 - Reading in data from a PostgresSQL server
