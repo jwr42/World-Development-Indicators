@@ -3,7 +3,7 @@
 Notebook to analyse the completeness of the World Development Indictors measurements from 1960 onwards.
 
 The Jupyter notebook exploratory_analysis.ipynb covers:
-- Reading in data from a PostgresSQL server
+- Reading in data from a PostgreSQL server
 - Descriptive statistics of the dataset
 - Data cleaning to remove empty columns
 - Webscraping to find ISO country codes
